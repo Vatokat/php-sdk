@@ -1,5 +1,5 @@
 {
-    "name": "vatokat/php-sdk",
+    "name": "kadam/php-sdk",
     "type": "library",
     "description": "PHP-SDK for kadam.net",
     "keywords": ["kadam", "kadam sdk", "sdk", "php"],
