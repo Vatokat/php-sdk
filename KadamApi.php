@@ -261,6 +261,7 @@ class KadamApi
             'campaign_ids' => $campaignIds,
             'limit' => $limit,
             'offset' => $offset,
+            'with_bwlist' => 1,
             'with_tags' => 1
         ];
 
